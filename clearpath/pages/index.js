@@ -31,8 +31,6 @@ export default function Home() {
       <div className='menu'>
         {data.map(menu)}
       </div>
-        
-        
       </main>
 
       <footer className={styles.footer}>
