@@ -12,7 +12,8 @@ export default function menu(props) {
             <select name = {props.label} id = {props.label}>
                 {props.options.map(generateoptions)}
             </select>
-            <br></br>
+            <hr/>
+            <br/>
         </div>
     );
   }
