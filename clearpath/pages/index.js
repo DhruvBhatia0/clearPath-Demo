@@ -18,6 +18,7 @@ export default function Home() {
         <h1 className={styles.title}>
           <Link href="/bot-config">Click here</Link>
         </h1>
+        {/* the like will take you to the bot-config folder, where the index.js folder is the default folder thats loaded*/}
         </main>
     </div>
   )

@@ -18,6 +18,11 @@ const data = {
     id: 4,
     label: "Attachments - ",
     options: ["Camera", "3D Lidar", "2D Lidar", "IMU", "Manipulator"]
+  },
+  {
+    id: 5,
+    label: "Attachments slot 2 - ",
+    options: ["Camera", "3D Lidar", "2D Lidar", "IMU", "Manipulator"]
   }],
   bot2: [{
     id: 1,

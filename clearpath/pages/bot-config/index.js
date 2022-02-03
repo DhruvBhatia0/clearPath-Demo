@@ -8,7 +8,7 @@ export default function BotConfigList(props) {
         <h1 className={styles.title}>
           Bot options to configure
         </h1>
-        <br></br>
+        <br/>
         <ul>
           <li>
             <button><Link href="/bot-config/bot1" >Bot 1</Link></button>
